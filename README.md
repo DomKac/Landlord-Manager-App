@@ -5,7 +5,7 @@ Appliacation allows the user to create plots on which he can plan the arrangemen
 * The plot is drawn on a google maps
 * App uses data base
 
-## Skład projektu
+## Project group:
 - Mateusz Pełechaty
 - Dominik Kaczmarek
 - Maciej Sieroń
